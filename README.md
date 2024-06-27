@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=gradient&text=Brian%20;%20STATIC%20VOID&fontColor=00FFCC&fontAlign=63&fontAlignY=79&reversal=true"    />
+</div>
+
 ## Hi there 👋
 
 <!--
